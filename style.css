@@ -1,0 +1,106 @@
+.box1{
+    height: 300px;
+    width: 300px;
+    background-color: turquoise;
+    position: relative;
+    transform: rotate(45deg);
+    margin: 100px auto;
+    
+
+}
+.box1 h2{
+    position: relative;
+    top:40%;
+    font-size: 40px;
+    text-align: center;
+
+}
+
+.box2{
+    height: 300px;
+    width: 300px;
+    background-color: turquoise;
+    position: relative;
+    transform: scale(.8);
+    margin: auto;
+
+}
+.box2 h2{
+    position: relative;
+    top:40%;
+    font-size: 40px;
+    text-align: center;
+
+}
+
+
+.box3{
+    height: 300px;
+    width: 300px;
+    background-color: turquoise;
+    position: relative;
+    transform: skew(25deg);
+    margin: auto;
+    
+
+}
+.box3 h2{
+    position: relative;
+    top:40%;
+    font-size: 40px;
+    text-align: center;
+
+}
+
+
+.box4{
+    height: 300px;
+    width: 300px;
+    background-color: turquoise;
+    position: relative;
+    transform: translate(40px, 20px);
+    
+
+}
+.box4 h2{
+    position: relative;
+    top:40%;
+    font-size: 40px;
+    text-align: center;
+    
+
+}
+
+.box5{
+    height: 300px;
+    width: 300px;
+    background-color: turquoise;
+    position: relative;
+    transform: translate(100px,20px);
+    
+
+}
+.box5 h2{
+    position: relative;
+    top:40%;
+    font-size: 40px;
+    text-align: center;
+
+}
+
+
+.box6{
+    height: 300px;
+    width: 300px;
+    background-color: turquoise;
+    position: relative;
+    transform: scaleY(0.7);
+
+}
+.box6 h2{
+    position: relative;
+    top:40%;
+    font-size: 40px;
+    text-align: center;
+
+}
